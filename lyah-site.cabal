@@ -17,4 +17,4 @@ executable site
                   , text
                   , directory
   ghc-options:      -threaded -Wall -Werror
-  default-language: Haskell2010
+  default-language: GHC2024
